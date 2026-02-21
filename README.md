@@ -72,7 +72,7 @@ This dashboard enables:
 
 ---
 
-## 📷 dashboard_preview
+## 📷 Images
 
 -[Dashboard Preview](dashboard_preview.png)
 -[Dashboard Preview](dashboard_previwe1.png)
