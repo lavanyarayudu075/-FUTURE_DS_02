@@ -74,10 +74,10 @@ This dashboard enables:
 
 ## 📷 Images
 
--[Dashboard Preview](Images.png)
--[Dashboard Preview](Images1.png)
--[Dashboard Preview](Images2.png)
--[Dashboard Preview](Images3.png)
+![Dashboard Preview](Images.png)
+![Dashboard Preview](Images1.png)
+![Dashboard Preview](Images2.png)
+![Dashboard Preview](Images3.png)
 ---
 
 ## 👩‍💻 Author
