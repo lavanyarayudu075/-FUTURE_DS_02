@@ -73,8 +73,11 @@ This dashboard enables:
 ---
 
 ## 📷 Dashboard Preview
-(Add screenshots here)
 
+![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview1.png)
+![Dashboard Preview](dashboard_preview2.png)
+![Dashboard Preview](dashboard_preview3.png)
 ---
 
 ## 👩‍💻 Author
