@@ -72,12 +72,12 @@ This dashboard enables:
 
 ---
 
-## 📷 Dashboard Preview
+## 📷 dashboard_preview
 
-![Dashboard Preview](dashboard_preview.png)
-![Dashboard Preview](dashboard_preview1.png)
-![Dashboard Preview](dashboard_preview2.png)
-![Dashboard Preview](dashboard_preview3.png)
+-[Dashboard Preview](dashboard_preview.png)
+-[Dashboard Preview](dashboard_preview1.png)
+-[Dashboard Preview](dashboard_preview2.png)
+-[Dashboard Preview](dashboard_preview3.png)
 ---
 
 ## 👩‍💻 Author
